@@ -1,26 +1,26 @@
 # Tech-Job-Recommendation
 
-#Prpblem Statement
+Prpblem Statement
 ---
 
 
 
-#Dataset
+Dataset
 ---
 
 
 
-#Requirements
+Requirements
 ---
 
 
 
-#Steps involved in model building
+Steps involved in model building
 ---
 
 
 
-#Conclusion
+Conclusion
 ---
 
 
