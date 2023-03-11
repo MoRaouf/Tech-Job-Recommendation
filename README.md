@@ -1,6 +1,6 @@
 # Tech-Job-Recommendation
 
-Prpblem Statement
+Problem Statement
 ---
 
 
