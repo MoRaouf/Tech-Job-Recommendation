@@ -2,7 +2,6 @@
 # $ conda create --name <env> --file <this file>
 # platform: Windows 11
 
-numpy
 pandas
 matplotlib
 plotly
