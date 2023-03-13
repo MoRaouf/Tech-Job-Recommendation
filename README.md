@@ -4,6 +4,10 @@ Problem Statement
 ---
 New developers & students struggle to know which technical jobs they can pursue given their current skills, in addition to which skills to add to their arsenal in order to be able to pursue a technical job of their choice. Therefore, this project aims to help developers have better understaning of their status quo & guide them by highlighting required skills for different technical jobs that are used in the market.
 
+Demo
+---
+
+
 Dataset
 ---
 Stackoverflow makes an annual survey to their users where they accumulate data about to the current state of the technical sector. The dataset we worked on is of 2022 survey, & it can be downloaded [here](https://insights.stackoverflow.com/survey). 
@@ -26,12 +30,13 @@ mlflow
 streamlit
 ```
 
-Steps involved in model building
+Model Deployment
 ---
+The tool is deployed as an app to Streamlit, & it can be accessed through [link].
+```
+```
 
 
 
-Conclusion
----
 
 
