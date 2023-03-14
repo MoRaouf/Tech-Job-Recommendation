@@ -2,7 +2,7 @@ import streamlit as st
 from JobPrediction import JobPrediction
 
 MLFLOW_TRACKING_URI = '../models/mlruns'
-MLFLOW_RUN_ID = "31ae402b0ee14d82934009728f2c3caf"
+MLFLOW_RUN_ID = "427443c734fe4a39b555660d928690dc"
 CLUSTERS_YAML_PATH = "../data/processed/features_skills_clusters_description.yaml"
 
 
