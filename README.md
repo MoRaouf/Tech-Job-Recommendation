@@ -22,13 +22,18 @@ git clone https://github.com/MoRaouf/Tech-Job-Recommendation.git
 * Set up the virtual environment and all required dependencies by:
   * Setting up a `python=3.8` virtual environment
   * run: `pip install -r requirements.txt`
-    
+
+* Change directory & run VSCode:
+```
+cd Tech-Job-Recommendation
+code .
+```
+
 * Run the Streamlit App
 ```
-cd scripts
-streamlit run streamlit_app.py
+streamlit run scripts/streamlit_app.py
 ```
-* The api will be automatically serving at localhost.
+* The api will be automatically serving at http://localhost:8501.
 
 Requirements
 ---
@@ -46,11 +51,7 @@ mlflow
 streamlit
 ```
 
-Model Deployment
----
-The tool is deployed as an app to Streamlit, & it can be accessed through [link].
-```
-```
+
 
 
 
