@@ -6,7 +6,6 @@ pandas
 matplotlib
 plotly
 scikit-learn
-pickle
 yaml
 pathlib
 mlflow
